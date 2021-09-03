@@ -1,0 +1,24 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Projects/Game1/Game1/Content/BulletTest.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/BulletTest.xnb","TextureProcessor","Texture2DContent",1859,202585,0.6565373
+"C:/Projects/Game1/Game1/Content/ButtonFont.spritefont","C:/Projects/Game1/Game1/Content/bin/Windows/Content/ButtonFont.xnb","FontDescriptionProcessor","SpriteFontContent",2005,37905,0.4047132
+"C:/Projects/Game1/Game1/Content/buyfont.spritefont","C:/Projects/Game1/Game1/Content/bin/Windows/Content/buyfont.xnb","FontDescriptionProcessor","SpriteFontContent",2005,37905,0.0419707
+"C:/Projects/Game1/Game1/Content/dsBuffer.bmp.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/dsBuffer.bmp.xnb","TextureProcessor","Texture2DContent",428,9297,0.0119917
+"C:/Projects/Game1/Game1/Content/Health.spritefont","C:/Projects/Game1/Game1/Content/bin/Windows/Content/Health.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.0379734
+"C:/Projects/Game1/Game1/Content/menuExitText.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/menuExitText.xnb","TextureProcessor","Texture2DContent",2771,80085,0.0199412
+"C:/Projects/Game1/Game1/Content/menuLeaderboardText.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/menuLeaderboardText.xnb","TextureProcessor","Texture2DContent",3227,80085,0.0309784
+"C:/Projects/Game1/Game1/Content/menuPlayText.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/menuPlayText.xnb","TextureProcessor","Texture2DContent",2774,80085,0.0219765
+"C:/Projects/Game1/Game1/Content/minigunturret.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/minigunturret.xnb","TextureProcessor","Texture2DContent",5448,262229,0.022985
+"C:/Projects/Game1/Game1/Content/rectangle.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/rectangle.xnb","TextureProcessor","Texture2DContent",580,201229,0.0179885
+"C:/Projects/Game1/Game1/Content/rectangle1.jpg","C:/Projects/Game1/Game1/Content/bin/Windows/Content/rectangle1.xnb","TextureProcessor","Texture2DContent",18941,41481,0.019987
+"C:/Projects/Game1/Game1/Content/rectangle2.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/rectangle2.xnb","TextureProcessor","Texture2DContent",387,79269,0.0129921
+"C:/Projects/Game1/Game1/Content/rectanglebuy.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/rectanglebuy.xnb","TextureProcessor","Texture2DContent",275,13041,0.0119921
+"C:/Projects/Game1/Game1/Content/RTS_Crate.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/RTS_Crate.xnb","TextureProcessor","Texture2DContent",119437,1048661,0.0419716
+"C:/Projects/Game1/Game1/Content/sdsd.jpg","C:/Projects/Game1/Game1/Content/bin/Windows/Content/sdsd.xnb","TextureProcessor","Texture2DContent",4535,202045,0.0219844
+"C:/Projects/Game1/Game1/Content/smallcircle.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/smallcircle.xnb","TextureProcessor","Texture2DContent",26650,5560249,0.1728788
+"C:/Projects/Game1/Game1/Content/smallcircleb.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/smallcircleb.xnb","TextureProcessor","Texture2DContent",65878,5560249,0.1818728
+"C:/Projects/Game1/Game1/Content/smallcircleg.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/smallcircleg.xnb","TextureProcessor","Texture2DContent",192646,5560249,0.1848691
+"C:/Projects/Game1/Game1/Content/sniperturret.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/sniperturret.xnb","TextureProcessor","Texture2DContent",5329,262229,0.0249821
+"C:/Projects/Game1/Game1/Content/ss.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/ss.xnb","TextureProcessor","Texture2DContent",3052,201661,0.0209851
+"C:/Projects/Game1/Game1/Content/survivor.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/survivor.xnb","TextureProcessor","Texture2DContent",36453,259249,0.0269798
+"C:/Projects/Game1/Game1/Content/TestSprite2WALK.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/TestSprite2WALK.xnb","TextureProcessor","Texture2DContent",9402,16201,0.0149898
+"C:/Projects/Game1/Game1/Content/turret.png","C:/Projects/Game1/Game1/Content/bin/Windows/Content/turret.xnb","TextureProcessor","Texture2DContent",3103,262229,0.021985

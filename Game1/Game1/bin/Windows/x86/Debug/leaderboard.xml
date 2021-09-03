@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFileInput xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileInput>
+    <Name>POP</Name>
+    <WaveSurvived>2</WaveSurvived>
+  </FileInput>
+  <FileInput>
+    <Name>KILLER</Name>
+    <WaveSurvived>1</WaveSurvived>
+  </FileInput>
+  <FileInput>
+    <Name>AIDAN</Name>
+    <WaveSurvived>1</WaveSurvived>
+  </FileInput>
+  <FileInput>
+    <Name>SHAUN</Name>
+    <WaveSurvived>0</WaveSurvived>
+  </FileInput>
+</ArrayOfFileInput>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Projects/Game1/Game1/Content/BulletTest.png</File>
+    <File>D:/Projects/Game1/Game1/Content/ButtonFont.spritefont</File>
+    <File>D:/Projects/Game1/Game1/Content/buyfont.spritefont</File>
+    <File>D:/Projects/Game1/Game1/Content/dsBuffer.bmp.png</File>
+    <File>D:/Projects/Game1/Game1/Content/Health.spritefont</File>
+    <File>D:/Projects/Game1/Game1/Content/menuExitText.png</File>
+    <File>D:/Projects/Game1/Game1/Content/menuLeaderboardText.png</File>
+    <File>D:/Projects/Game1/Game1/Content/menuPlayText.png</File>
+    <File>D:/Projects/Game1/Game1/Content/minigunturret.png</File>
+    <File>D:/Projects/Game1/Game1/Content/rectangle.png</File>
+    <File>D:/Projects/Game1/Game1/Content/rectangle1.jpg</File>
+    <File>D:/Projects/Game1/Game1/Content/rectangle2.png</File>
+    <File>D:/Projects/Game1/Game1/Content/rectanglebuy.png</File>
+    <File>D:/Projects/Game1/Game1/Content/RTS_Crate.png</File>
+    <File>D:/Projects/Game1/Game1/Content/sdsd.jpg</File>
+    <File>D:/Projects/Game1/Game1/Content/smallcircle.png</File>
+    <File>D:/Projects/Game1/Game1/Content/smallcircleb.png</File>
+    <File>D:/Projects/Game1/Game1/Content/smallcircleg.png</File>
+    <File>D:/Projects/Game1/Game1/Content/sniperturret.png</File>
+    <File>D:/Projects/Game1/Game1/Content/ss.png</File>
+    <File>D:/Projects/Game1/Game1/Content/survivor.png</File>
+    <File>D:/Projects/Game1/Game1/Content/TestSprite2WALK.png</File>
+    <File>D:/Projects/Game1/Game1/Content/turret.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,144 @@
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\Content\ss.xnb
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\shaun\source\repos\Game1\Game1\obj\x86\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\shaun\source\repos\Game1\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\shaun\source\repos\Game1\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+C:\Users\shaun\source\repos\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\shaun\source\repos\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\Content\sdsd.xnb
+C:\Users\shaun\source\repos\Game1\Game1\bin\Windows\x86\Debug\Content\RTS_Crate.xnb
+H:\Computer Science\Game1\Game1\obj\x86\Debug\Game1.exe
+H:\Computer Science\Game1\Game1\obj\x86\Debug\Game1.pdb
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\Content\sdsd.xnb
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\Content\RTS_Crate.xnb
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\Content\ss.xnb
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\Content\TestSprite2WALK.xnb
+H:\Computer Science\Game1\Game1\bin\Windows\x86\Debug\Content\BulletTest.xnb
+H:\Computer Science\Game1\Game1\obj\x86\Debug\Game1.csprojAssemblyReference.cache
+H:\Computer Science\Game1\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+H:\Computer Science\Game1\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+D:\Projects\Game1\Game1\obj\x86\Debug\Game1.csprojAssemblyReference.cache
+D:\Projects\Game1\Game1\obj\x86\Debug\Game1.exe
+D:\Projects\Game1\Game1\obj\x86\Debug\Game1.pdb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\BulletTest.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\RTS_Crate.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\sdsd.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\ss.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\TestSprite2WALK.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Projects\Game1\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\dsBuffer.bmp.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\smallcircle.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\Health.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\survivor.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\smallcircleg.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\smallcircleb.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\turret.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\menuExitText.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\menuLeaderboardText.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\menuPlayText.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\rectangle.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\rectangle1.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\rectangle2.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\ButtonFont.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\rectanglebuy.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\buyfont.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\minigunturret.xnb
+D:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\sniperturret.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\BulletTest.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\ButtonFont.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\buyfont.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\dsBuffer.bmp.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\Health.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\menuExitText.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\menuLeaderboardText.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\menuPlayText.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\minigunturret.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\rectangle.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\rectangle1.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\rectangle2.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\rectanglebuy.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\RTS_Crate.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\sdsd.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\smallcircle.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\smallcircleb.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\smallcircleg.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\sniperturret.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\ss.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\survivor.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\TestSprite2WALK.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\turret.xnb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Projects\Game1\Game1\obj\x86\Debug\Game1.csprojAssemblyReference.cache
+C:\Projects\Game1\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+C:\Projects\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Projects\Game1\Game1\obj\x86\Debug\Game1.pdb
